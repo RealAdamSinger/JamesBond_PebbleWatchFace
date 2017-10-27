@@ -3,4 +3,4 @@ A Good Looking James Bond Watchface that takes full advantage of the pebble's sq
 
 https://apps.getpebble.com/en_US/application/5635550acce1c48beb000010
 
-![ScreenShot](https://raw.github.com/RealAdamSinger/JamesBond_PebbleWatchFace/master/banner.png
+![ScreenShot](https://raw.github.com/RealAdamSinger/JamesBond_PebbleWatchFace/master/banner.png)
