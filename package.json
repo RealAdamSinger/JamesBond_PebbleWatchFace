@@ -1,0 +1,63 @@
+{
+    "author": "adam@majik.io",
+    "dependencies": {},
+    "keywords": [],
+    "name": "james-bond",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable"
+        ],
+        "displayName": "James Bond 007",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "KEY_CONDITIONS": 1,
+            "KEY_HEALTH": 6,
+            "KEY_ISAUTHENTIC": 3,
+            "KEY_ISCELS": 2,
+            "KEY_LAST_BATTERY_LEVEL": 4,
+            "KEY_LAST_BATTERY_LEVEL_DATE": 5,
+            "KEY_TEMPERATURE": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/download.png",
+                    "menuIcon": true,
+                    "name": "image",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/CLOCK_29",
+                    "name": "CLOCK_29",
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/SMALL_10",
+                    "name": "SMALL_9",
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/MED_12",
+                    "name": "MED_12",
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "43bfa806-3d97-4a18-b221-bbe4cf363fcf",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "4.2.0"
+}
